@@ -41,10 +41,10 @@ It integrates **YOLOv11** for PPE detection, **Gemini/LLaVA** for hazard reasoni
 ---
 
 ## 🧩 Future Plans
-- 🔹 Multi-camera support  
-- 🔹 Multi-Agent architecture for alert validation  
-- 🔹 Fine-tuning the Vision-Language Model  
-- 🔹 Integration of a larger YOLO variant for enhanced detection accuracy  
+-  Multi-camera support  
+-  Multi-Agent architecture for alert validation  
+-  Fine-tuning the Vision-Language Model  
+-  Integration of a larger YOLO variant for enhanced detection accuracy  
 
 ---
 
