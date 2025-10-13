@@ -48,8 +48,8 @@ It integrates **YOLOv11** for PPE detection, **Gemini/LLaVA** for hazard reasoni
 
 ---
 
-### 👩‍💻 Developed by [Rawan Ezzat](www.linkedin.com/in/rawan-ezzat-87128827a)  
-🎓 Final Project for the **National Telecommunication Institute (NTI)** Advanced AI and Computer Vision Program  
+### 👩‍💻 Developed by [Rwan Ezzat](https://www.linkedin.com/in/rwan-ezzat-87128827a/)  
+🎓 Final Project for the **National Telecommunication Institute (NTI)** — Advanced AI and Computer Vision Program  
 
 > *Empowering workplace safety through intelligent, real-time AI monitoring.*
 
